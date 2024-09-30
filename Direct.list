@@ -617,6 +617,10 @@ IP-CIDR,205.185.194.0/24,no-resolve
 #游戏下载
 DOMAIN,assets1.xboxlive.cn
 DOMAIN,assets2.xboxlive.cn
+DOMAIN,assets1.xboxlive.com
+DOMAIN,assets2.xboxlive.com
+DOMAIN,xvcf1.xboxlive.com
+DOMAIN,xvcf2.xboxlive.com
 DOMAIN,cdn-ali.content.steamchina.com
 DOMAIN,cdn-qc.content.steamchina.com
 DOMAIN,cdn-ws.content.steamchina.com
