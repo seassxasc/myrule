@@ -1,0 +1,2 @@
+# myrule
+openclash规则
