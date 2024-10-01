@@ -1,5 +1,4 @@
 #Meta_oculus_facebook  
-DOMAIN,oculus.com
-DOMAIN,meta.com
-DOMAIN,facebook.com
-  
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,facebook.com
