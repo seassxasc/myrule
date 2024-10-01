@@ -2,6 +2,9 @@
 DOMAIN,cycanime.com
 DOMAIN,github.com
 
+#N卡SHILED
+DOMAIN-SUFFIX,gfwsl.geforce.com
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 
