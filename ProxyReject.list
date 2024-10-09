@@ -1,3 +1,4 @@
 # 代理拦截列表
 DOMAIN-SUFFIX,europe.vrdesktop.net
 DOMAIN-SUFFIX,america.vrdesktop.net
+DOMAIN-SUFFIX,download.vrdesktop.net
