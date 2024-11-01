@@ -1,4 +1,9 @@
 # 游戏代理
+
+#地平线
 DOMAIN-SUFFIX,forzamotorsport.net
 DOMAIN-SUFFIX,forzaracingchampionship.com
 DOMAIN-SUFFIX,forzarc.com
+
+#怪物猎人
+DOMAIN-SUFFIX,monsterhunter.com
