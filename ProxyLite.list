@@ -43,3 +43,7 @@ DOMAIN-SUFFIX,www.xbox.com
 DOMAIN-SUFFIX,assets.xbox.com
 DOMAIN-SUFFIX,assets-www,xbox.com
 DOMAIN-SUFFIX,compass-ssl.xbox.com
+#首页游戏加载
+DOMAIN-SUFFIX,catalog.gamepass.com
+#游戏目录加载
+DOMAIN-SUFFIX,beige.xboxservices.com
