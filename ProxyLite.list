@@ -37,4 +37,4 @@ IP-CIDR,208.67.220.220/32,no-resolve
 
 ####xbox代理
 #云同步
-DOMAIN-SUFFIX,titlestorage.xboxlive.com
+#DOMAIN-SUFFIX,titlestorage.xboxlive.com
