@@ -6,10 +6,10 @@ DOMAIN-SUFFIX,forzaracingchampionship.com
 DOMAIN-SUFFIX,forzarc.com
 
 #怪物猎人
-monsterhunter.com
+DOMAIN-SUFFIX,monsterhunter.com
 
 #warframe
-api.warframe.com
-content.warframe.com
-metrics.warframe.com
-www-static.warframe.com:
+DOMAIN-SUFFIX,api.warframe.com
+DOMAIN-SUFFIX,content.warframe.com
+DOMAIN-SUFFIX,metrics.warframe.com
+DOMAIN-SUFFIX,www-static.warframe.com:
