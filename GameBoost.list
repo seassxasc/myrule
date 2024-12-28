@@ -14,3 +14,6 @@ DOMAIN-SUFFIX,content.warframe.com
 DOMAIN-SUFFIX,metrics.warframe.com
 DOMAIN-SUFFIX,www-static.warframe.com
 DOMAIN-SUFFIX,origin.warframe.com
+
+#无主之地3
+DOMAIN-SUFFIX,shift.services.gearbox.com
