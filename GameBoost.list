@@ -24,12 +24,12 @@ DOMAIN,324c8.playfabapi.com
 DOMAIN,2fb7c.playfabapi.com
 
 #GTAV
-DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
-DOMAIN-SUFFIX,media-rockstargames-com.akamaized.net
-DOMAIN-SUFFIX,rockstargames.com
-DOMAIN-SUFFIX,rsg.sc
-DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
-
+SRC-PORT,6672,GTAonline
+DST-PORT,6672,GTAonline
+DST-PORT,61455,GTAonline
+DST-PORT,61456,GTAonline
+DST-PORT,61457,GTAonline
+DST-PORT,61458,GTAonline
 
 #warframe
 DOMAIN-SUFFIX,api.warframe.com
