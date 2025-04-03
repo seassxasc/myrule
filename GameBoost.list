@@ -24,15 +24,12 @@ DOMAIN,324c8.playfabapi.com
 DOMAIN,2fb7c.playfabapi.com
 
 #GTAV
-DOMAIN,prod.cloud.rockstargames.com
-DOMAIN,videos-rockstargames-com.akamaized.net
-DOMAIN,media-rockstargames-com.akamaized.net
-DOMAIN,images.ctfassets.net
-DOMAIN,store.rockstargames.com
+DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
+DOMAIN-SUFFIX,media-rockstargames-com.akamaized.net
+DOMAIN-SUFFIX,rockstargames.com
+DOMAIN-SUFFIX,rsg.sc
+DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
 
-#GTAV游戏内
-DOMAIN,prod.telemetry.ros.rockstargames.com
-DOMAIN,patches.rockstargames.com
 
 #warframe
 DOMAIN-SUFFIX,api.warframe.com
