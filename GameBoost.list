@@ -31,6 +31,14 @@ DST-PORT,61456,GTAonline
 DST-PORT,61457,GTAonline
 DST-PORT,61458,GTAonline
 
+#GTAV
+DOMAIN,prod.cloud.rockstargames.com
+DOMAIN,videos-rockstargames-com.akamaized.net
+DOMAIN,media-rockstargames-com.akamaized.net
+DOMAIN,images.ctfassets.net
+DOMAIN,store.rockstargames.com
+ 
+
 #warframe
 DOMAIN-SUFFIX,api.warframe.com
 DOMAIN-SUFFIX,content.warframe.com
