@@ -23,20 +23,6 @@ DOMAIN,40912.playfabapi.com
 DOMAIN,324c8.playfabapi.com
 DOMAIN,2fb7c.playfabapi.com
 
-#GTAV
-SRC-PORT,6672,GTAonline
-DST-PORT,6672,GTAonline
-DST-PORT,61455,GTAonline
-DST-PORT,61456,GTAonline
-DST-PORT,61457,GTAonline
-DST-PORT,61458,GTAonline
-
-#GTAV
-DOMAIN,prod.cloud.rockstargames.com
-DOMAIN,videos-rockstargames-com.akamaized.net
-DOMAIN,media-rockstargames-com.akamaized.net
-DOMAIN,images.ctfassets.net
-DOMAIN,store.rockstargames.com
  
 
 #warframe
