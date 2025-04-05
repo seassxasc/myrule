@@ -23,6 +23,10 @@ DOMAIN,40912.playfabapi.com
 DOMAIN,324c8.playfabapi.com
 DOMAIN,2fb7c.playfabapi.com
 
+#GTA5
+DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
+DOMAIN-SUFFIX,images.ctfassets.net
+DOMAIN-SUFFIX,store.rockstargames.com
 
 #warframe
 DOMAIN-SUFFIX,api.warframe.com
