@@ -23,7 +23,12 @@ DOMAIN,40912.playfabapi.com
 DOMAIN,324c8.playfabapi.com
 DOMAIN,2fb7c.playfabapi.com
 
- 
+#GTAV
+DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
+DOMAIN-SUFFIX,media-rockstargames-com.akamaized.net
+DOMAIN-SUFFIX,rockstargames.com
+DOMAIN-SUFFIX,rsg.sc
+DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
 
 #warframe
 DOMAIN-SUFFIX,api.warframe.com
