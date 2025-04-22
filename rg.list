@@ -1,9 +1,3 @@
 # 绕过本机
 SRC-IP-CIDR,192.168.8.14/32,no-resolve
 SRC-IP-CIDR,192.168.8.11/32,no-resolve
-IP-CIDR,47.120.12.217/32,no-resolve
-
-#vd
-#DOMAIN-SUFFIX,download.vrdesktop.net
-#DOMAIN-SUFFIX,europe.vrdesktop.net
-#DOMAIN-SUFFIX,america.vrdesktop.net
