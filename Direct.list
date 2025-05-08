@@ -2,6 +2,10 @@
 #DOMAIN-KEYWORD,gofile.io
 DOMAIN-SUFFIX,store5.gofile.io
 DOMAIN-SUFFIX,store-eu-par-2.gofile.io
+DOMAIN-SUFFIX,store6.gofile.io
+DOMAIN-SUFFIX,store1.gofile.io
+DOMAIN-SUFFIX,store2.gofile.io
+DOMAIN-SUFFIX,store3.gofile.io
 DOMAIN-SUFFIX,store4.gofile.io
 DOMAIN-SUFFIX,store7.gofile.io
 DOMAIN-SUFFIX,store8.gofile.io
@@ -12,6 +16,9 @@ DOMAIN-SUFFIX,store12.gofile.io
 DOMAIN-SUFFIX,store13.gofile.io
 DOMAIN-SUFFIX,store14.gofile.io
 DOMAIN-SUFFIX,store15.gofile.io
+DOMAIN-SUFFIX,cold-na-phx-1.gofile.io
+DOMAIN-SUFFIX,cold-na-phx-2.gofile.io
+DOMAIN-SUFFIX,cold-na-phx-3.gofile.io
 DOMAIN-SUFFIX,cold-na-phx-4.gofile.io
 DOMAIN-SUFFIX,cold-na-phx-5.gofile.io
 DOMAIN-SUFFIX,cold-na-phx-6.gofile.io
