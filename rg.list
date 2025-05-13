@@ -1,3 +1,4 @@
 # 绕过本机
 SRC-IP-CIDR,192.168.8.14/32,no-resolve
 SRC-IP-CIDR,192.168.8.11/32,no-resolve
+SRC-IP-CIDR,192.168.8.13/32,no-resolve
