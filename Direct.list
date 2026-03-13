@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,cold9.gofile.io
 DOMAIN-SUFFIX,cold10.gofile.io
 DOMAIN-SUFFIX,cold11.gofile.io
 DOMAIN-SUFFIX,cold12.gofile.io
+DOMAIN-SUFFIX,spring.mailrelay.us
 
 # MyList
 # 域名后缀匹配
@@ -48,7 +49,6 @@ DOMAIN-SUFFIX,hao123.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
-DOMAIN-KEYWORD,airtcp
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
